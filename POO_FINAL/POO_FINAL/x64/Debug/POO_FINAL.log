@@ -1,0 +1,9 @@
+﻿  Principal.cpp
+C:\Users\WILLIAM\Documents\dev c++\POO_FINAL\POO_FINAL\ClienteVector.h(58,1): warning C4267: 'return': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\WILLIAM\Documents\dev c++\POO_FINAL\POO_FINAL\ProductoVector.h(39,1): warning C4267: 'return': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\WILLIAM\Documents\dev c++\POO_FINAL\POO_FINAL\VendedorVector.h(38,1): warning C4267: 'return': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\WILLIAM\Documents\dev c++\POO_FINAL\POO_FINAL\FacturaDetalleVector.h(40,1): warning C4267: 'return': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\WILLIAM\Documents\dev c++\POO_FINAL\POO_FINAL\FacturaVector.h(40,1): warning C4267: 'return': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\WILLIAM\Documents\dev c++\POO_FINAL\POO_FINAL\FacturaVector.h(60): warning C4715: 'FacturaVector::buscarPorCodigo': no todas las rutas de acceso de control devuelven un valor
+C:\Users\WILLIAM\Documents\dev c++\POO_FINAL\POO_FINAL\FacturaVector.h(174): warning C4715: 'FacturaVector::modificarEstado': no todas las rutas de acceso de control devuelven un valor
+  POO_FINAL.vcxproj -> C:\Users\WILLIAM\Documents\dev c++\POO_FINAL\x64\Debug\POO_FINAL.exe
